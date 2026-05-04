@@ -8,7 +8,7 @@
 
 ## 🧠 Tecnologias que eu conheço
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="JS" height="40" width="50" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   
   <img align="center" alt="Python" height="40" width="50" style="margin-right: 15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -27,9 +27,9 @@
 <br><br>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devErickMR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devErickMR&layout=compact&langs_count=7&theme=tokyonight">
 </div>
 ---
 
